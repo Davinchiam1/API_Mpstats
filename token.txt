@@ -1,0 +1,1 @@
+your_api_token_for_mpstats_servise
